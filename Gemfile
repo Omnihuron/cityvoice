@@ -26,6 +26,8 @@ gem 'google-analytics-rails'
 gem 'soda-ruby', require: 'soda'
 gem 'twilio-ruby'
 
+gem 'seed_dump'
+
 group :test do
   gem 'shoulda-matchers'
   gem 'timecop'
